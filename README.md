@@ -4,7 +4,7 @@ Source Code for C++ Library Management System Applying OOP Concepts
 
 Playlist link: https://www.youtube.com/playlist?list=PL9BEhEeCPDbbtF3exuFP92nME9a0O93Bh
 
-My Youtube Channel: 	[Owen Patrick F. Falculan](https://www.youtube.com/channel/UCoTHZEIuf_LuQs24--uRHUg)
+My Youtube Channel: 	[markbirds](https://www.youtube.com/channel/UCoTHZEIuf_LuQs24--uRHUg)
 
 ---
 
